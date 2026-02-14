@@ -1,5 +1,4 @@
 
-
 class student
 {
     int marks;
